@@ -1,7 +1,5 @@
 # AWC — Live Collaboration Platform
 
-![App Logo](Frontend/public/assets/logos/app-logo.svg)
-
 AWC is a production-ready, real-time collaboration platform that combines video conferencing, text chat, and a collaborative whiteboard (tldraw) — all built with WebRTC, PeerJS, Socket.IO, and React + Vite. The app is designed to be responsive, performant, and developer-friendly.
 
 

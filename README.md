@@ -4,10 +4,22 @@
 
 AWC is a production-ready, real-time collaboration platform that combines video conferencing, text chat, and a collaborative whiteboard (tldraw) — all built with WebRTC, PeerJS, Socket.IO, and React + Vite. The app is designed to be responsive, performant, and developer-friendly.
 
+## Gallery
 
-## Live Demo / Screenshots
+A few screenshots showing the UI, responsiveness and core features.
 
-![Login Background](Frontend/public/assets/backgrounds/login-bg.jpg)
+<p align="center">
+  <img src="images/Dashboard.png" alt="Dashboard" width="480" style="margin:8px;" />
+  <img src="images/liveChat.png" alt="Live Chat" width="480" style="margin:8px;" />
+</p>
+
+<p align="center">
+  <img src="images/responsiveUI.png" alt="Responsive UI - mobile" width="300" style="margin:8px;" />
+  <img src="images/responsiveUI2.png" alt="Responsive UI - tablet" width="300" style="margin:8px;" />
+  <img src="images/whiteboard.png" alt="Whiteboard" width="300" style="margin:8px;" />
+</p>
+
+_These images are sourced from the repository's `images/` folder; update them if you want different screenshots or higher-resolution assets._
 
 > Note: Replace the screenshots above with actual conference/whiteboard screenshots for your marketing or README improvements. The assets referenced exist under `Frontend/public/assets`.
 
